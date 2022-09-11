@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="a009dac2-7e90-4b49-8342-9a70196fd9c6" name="@localhostmet1 Mapping">
+      <data-sources db="92f081b3-9161-4ce3-8667-30d0cabd9653" ddl="c82a3496-354b-4ef1-8652-ebf0713f0583" />
+      <scope>
+        <node kind="schema" qname="metoda" />
+      </scope>
+    </mapping>
+  </component>
+</project>
